@@ -30,11 +30,11 @@ Dotata di animazioni, logica dinamica dei colori, icone personalizzabili e un ed
 
 ### 1. Tramite HACS (Consigliato)
 
-1. Assicurati di avere [HACS](https://hacs.xyz/) installato.
-2. Vai su **HACS** > **Frontend**.
-3. Clicca sui 3 puntini in alto a destra > **Repository personalizzati**.
-4. Inserisci l'URL di questo repository e seleziona la categoria **Lovelace**.
-5. Clicca su **Installa**.
+1. Vai su HACS > Frontend.
+2. Clicca i 3 puntini in alto a destra > **Custom repositories**.
+3. Inserisci l'URL di questa repository. https://github.com/SalvatoreITA/domhouse-solar-autoconsumption-card
+4. Categoria: **Lovelace**.
+5. Clicca **Add** e poi installa la card.
 
 ### 2. Installazione Manuale
 
